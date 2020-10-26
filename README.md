@@ -4,9 +4,9 @@
 
 :mortar_board:	Graduated with a MSc Data science in 2020
 
-:closed_lock_with_key:	Cybersecurity Research intern at the cybersecurity lab for Birkbeck Institute of Data Analytics
+:closed_lock_with_key:	Was a Cybersecurity Research intern at the cybersecurity lab for Birkbeck Institute of Data Analytics
 
-:mortar_board:	I graduate with a Mathematics degree from King’s College London
+:mortar_board:	Graduated with a Mathematics degree from King’s College London
 
 :runner:	Competed in a national dual Athlon competition as a part of King’s College London
 
