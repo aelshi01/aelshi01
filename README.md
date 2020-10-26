@@ -27,7 +27,7 @@ At my time in Wowshee a food startup based in central London, I was able to crea
 ### 4.	Created a self-driving car with minimal autonomous capabilities
 As a part of my MSc project I was able to create a miniature self-driving car by using different sensors such as ultrasonic, infrared and Bluetooth module.  My next stage is to use a HDMI camera to make real time decision by training a CNN to recognize obstacles, traffic sign and vehicles.
 
-### 5.  Generated my own data through Unit (game simulator) and trained a CNN to drive around a track
+### 5.  Generated my own data through Unity (game simulator) and trained a CNN to drive around a track
 I used Behavior Cloning to teach the computer to drive around any track in the simulated game.  I done this by generating my own data in the game simulator, which I used to train a CNN to learn how to drive around any track virtually.  
 
 
